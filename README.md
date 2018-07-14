@@ -1,2 +1,2 @@
 # E-Planner
-ICS 4U Culm Project
+ICS 4U Culminating Project
