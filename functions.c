@@ -231,7 +231,7 @@ void enterInfo()
 
 void readInfo ()
 {
-    char c;                                                                     //ABIRAAM"S PART
+    char c;                                                                
 
     printf("\n\nMonday: \n");
     FILE * Mon;
